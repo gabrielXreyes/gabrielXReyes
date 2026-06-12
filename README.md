@@ -1,6 +1,7 @@
 <h1 align="center">Hola, soy <a href="https://github.com/gabrielXreyes/gabrielXReyes/blob/main/cv_Gabriel_Reyes.pdf" target="_blank">Gabriel</a> ¡Bienvenido a  mi GitHub!</h1>
 <p text-align="justify">
-  Apasionado por las redes, la ciberseguridad y el desarrollo web. Enfocado en formarme como administrador de redes y hacker ético, con interés en fortalecer la seguridad tecnológica mediante la identificación de vulnerabilidades. Experiencia en desarrollo web responsivo con HTML, CSS y JavaScript. Motivado por el aprendizaje continuo y el trabajo en equipo para ofrecer soluciones eficientes y de calidad.
+  Soy Inf. en Ciencias de la Computación, apasionado por el desarrollo web full stack y la seguridad informática. Disfruto construir aplicaciones completas, desde interfaces responsivas con HTML, CSS y JavaScript hasta la lógica del backend y la gestión de bases de datos, siempre con un enfoque en buenas prácticas y código limpio.
+Me interesa especialmente integrar conocimientos de ciberseguridad en el desarrollo, identificando vulnerabilidades y aplicando soluciones que fortalezcan la seguridad de las aplicaciones que construyo. Estoy en constante aprendizaje, explorando nuevas tecnologías y frameworks, y disfruto colaborar en equipo para entregar soluciones eficientes y de calidad.
 </p>
 
 
