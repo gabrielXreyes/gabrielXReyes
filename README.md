@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy <a href="[https://github.com/gabrielXreyes/gabrielXReyes/blob/main/cv_Gabriel_Reyes.pdf](https://github.com/gabrielXreyes/gabrielXReyes/blob/main/Curriculum%20Vitae%20Desarrollador.pdf" target="_blank">Gabriel</a> ¡Bienvenido a  mi GitHub!</h1>
+<h1 align="center">Hola, soy <a href="https://github.com/gabrielXreyes/gabrielXReyes/blob/main/Curriculum%20Vitae%20Desarrollador.pdf" target="_blank">Gabriel</a> ¡Bienvenido a  mi GitHub!</h1>
 <p text-align="justify">
 Soy Ing. en Ciencias de la Computación, apasionado por el desarrollo web full stack y la seguridad informática. Disfruto construir aplicaciones completas, desde interfaces responsivas con HTML, CSS y Java hasta la lógica del backend y la gestión de bases de datos, siempre con un enfoque en buenas prácticas y código limpio.Me interesa especialmente integrar conocimientos en desarrollo.
 
